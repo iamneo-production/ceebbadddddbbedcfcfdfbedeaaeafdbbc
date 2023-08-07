@@ -17,25 +17,25 @@ function App() {
       //correctAnswerMarkUpdate,
       //attempt,
       options : {
-        option1: 'Mahatma Gandhi',
-        option2: 'Jawaharlal Nehru',
-        option3: 'Donald Trump',
-        option4: 'Barrack Obama'
+        option1: 'Shark',
+        option2: 'Blue Whale',
+        option3: 'Elephant',
+        option4: 'Giraffe'
       },
-      answer : 'Mahatma Gandhi'
+      answer : 'Blue Whale'
     },
     {
       key : 2,
-      question : "What color is are the leaves ?",
+      question : "Which is the 29th state of India ?",
       //correctAnswerMarkUpdate,
       //attempt,
       options : {
-        option1 : "Blue",
-        option2 : "Red",
-        option3 : "Yellow",
-        option4 : "Green",
+        option1 : "Telangana",
+        option2 : "Uttarakhand",
+        option3 : "Uttar Pradesh",
+        option4 : "Madhya Pradesh",
       },
-      answer : "Green"
+      answer : "Telangana"
     },
     {
       key:3,
@@ -52,7 +52,7 @@ function App() {
     },
     {
       key:4,
-      question:'Who is the father of the nation ?',
+      question:'Who was the inventor of electricity ?',
       //correctAnswerMarkUpdate,
       //attempt,
       options : {
