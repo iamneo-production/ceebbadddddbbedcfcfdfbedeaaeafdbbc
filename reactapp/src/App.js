@@ -13,7 +13,7 @@ function App() {
   const questionData = [
     {
       key:1,
-      question:'Who is the father of the nation ?',
+      question:'What is the largest animal in the world ?',
       //correctAnswerMarkUpdate,
       //attempt,
       options : {
