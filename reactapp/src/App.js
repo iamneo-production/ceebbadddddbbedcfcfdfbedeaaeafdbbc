@@ -11,10 +11,10 @@ function App() {
   var resultBtn;
 
   const questionData = [
-    {
+   {
       key:1,
       question:'What is the largest animal in the world ?',
-      //correctAnswerMarkUpdate,
+      / /correctAnswerMarkUpdate,
       //attempt,
       options : {
         option1: 'Shark',
