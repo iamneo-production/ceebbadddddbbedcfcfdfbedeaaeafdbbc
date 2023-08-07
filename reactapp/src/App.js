@@ -56,25 +56,25 @@ function App() {
       //correctAnswerMarkUpdate,
       //attempt,
       options : {
-        option1: 'Mahatma Gandhi',
-        option2: 'Jawaharlal Nehru',
-        option3: 'Donald Trump',
-        option4: 'Barrack Obama'
+        option1: 'Benjamin',
+        option2: 'Vikings',
+        option3: 'Benjamin Franklin',
+        option4: 'Leonardo da Vinci'
       },
-      answer : 'Mahatma Gandhi'
+      answer : 'Benjamin Franklin'
     },
     {
       key:5,
-      question:'Who is the father of the nation ?',
+      question:'Which metal is the lightest metal in world ?',
       //correctAnswerMarkUpdate,
       //attempt,
       options : {
-        option1: 'Mahatma Gandhi',
-        option2: 'Jawaharlal Nehru',
-        option3: 'Donald Trump',
-        option4: 'Barrack Obama'
+        option1: 'Lithium',
+        option2: 'Platinum',
+        option3: 'Zinc',
+        option4: 'Gold'
       },
-      answer : 'Mahatma Gandhi'
+      answer : 'Lithium'
     },
 
   ]
